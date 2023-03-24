@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4Loops", "Week4Loops\Week4Loops.csproj", "{FAB6DCD3-B9D6-4430-BD4C-FB6BCF129704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4WhileLoop", "Week4WhileLoop\Week4WhileLoop.csproj", "{3ED94248-7314-401C-A65F-E580979A438D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB6DCD3-B9D6-4430-BD4C-FB6BCF129704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB6DCD3-B9D6-4430-BD4C-FB6BCF129704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB6DCD3-B9D6-4430-BD4C-FB6BCF129704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB6DCD3-B9D6-4430-BD4C-FB6BCF129704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ED94248-7314-401C-A65F-E580979A438D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED94248-7314-401C-A65F-E580979A438D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED94248-7314-401C-A65F-E580979A438D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED94248-7314-401C-A65F-E580979A438D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1AAF25F-6A1B-499F-BA2F-4D1C2FE9439D}
+	EndGlobalSection
+EndGlobal
